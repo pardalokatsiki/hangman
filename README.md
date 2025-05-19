@@ -2,6 +2,7 @@
 Simple hangman game in C!
 
 # instructions
+!!!!! Do not move each file in different directories
 
 Find the first and last name of anime and other japanese media characters. List of names includes media such as:
 - Hunter x Hunter
